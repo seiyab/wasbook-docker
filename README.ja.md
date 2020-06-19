@@ -13,7 +13,7 @@ cd wasbook-docker
 ```
 
 ### ソースコードの取得
-https://wasbook.org/download/ からサンプルソースのダウンロードします。
+[https://wasbook.org/download/](https://wasbook.org/download/) からサンプルソースのダウンロードします。
 ID / パスワードは「体系的に学ぶ安全なWEBアプリケーションの作り方 第2版」巻末に記されている通りです。
 
 ### ソースコードを移動
@@ -45,7 +45,7 @@ docker pull php:apache
 
 ### 動作確認
 第3章 1節のサンプルを閲覧できることを確認します。
-ブラウザで[localhost/31/31-001.php](localhost/31/31-001.php)を開きます。
+ブラウザで[localhost/31/31-001.php](http://localhost/31/31-001.php)を開きます。
 
 TODO: localhost/31 の文字化け修正
 
