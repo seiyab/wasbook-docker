@@ -24,7 +24,7 @@ mv path/to/wasbook.zip ./public/
 
 Macの場合の例
 ```bash
-mv ~/Downloads/wasbook.zip
+mv ~/Downloads/wasbook.zip ./public/
 ```
 
 ### ソースコードを展開
